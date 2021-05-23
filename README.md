@@ -1,5 +1,7 @@
 # Guess my number game
 
+This is a fun game invovling guessing a random number. The functionality is implemented with JavaScript.
+
 This is part of a series of projects completed while taking Jonas Schmedtman's JavaScript course on Udemy (https://www.udemy.com/course/the-complete-javascript-course/)
 
 The HTML and CSS codes are from Jonas, but the JavaScript code was developed by me during the course of this project.
@@ -25,3 +27,5 @@ npm install live-server
 ```
 live-server
 ```
+
+Contact Anand Jebakumar (anandjsamuel@gmail.com) for questions or comments.
