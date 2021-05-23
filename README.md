@@ -1,6 +1,6 @@
 # Guess my number game
 
-This is a fun game invovling guessing a random number. The functionality is implemented with JavaScript.
+This is a fun game involving guessing a random number. The functionality is implemented with JavaScript.
 
 This is part of a series of projects completed while taking Jonas Schmedtman's JavaScript course on Udemy (https://www.udemy.com/course/the-complete-javascript-course/)
 
