@@ -6,6 +6,14 @@ This is part of a series of projects completed while taking Jonas Schmedtman's J
 
 The HTML and CSS codes are from Jonas, but the JavaScript code was developed by me during the course of this project.
 
+The start of the game:
+
+![](images/start.png)
+
+With each guess, a prompt tells you whether the guess is higher or lower than the secret number. Once you guess the right number, the game ends:
+
+![](images/end.png)
+
 Steps to run this below:
 
 1. Git clone the repository to your local machine.
